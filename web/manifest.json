@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "todolist",
     "short_name": "todolist",
+=======
+    "name": "todoappkolay",
+    "short_name": "todoappkolay",
+>>>>>>> c22fbef060a51c66ac2b47239ad4743a30019154
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

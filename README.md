@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # todolist
+=======
+# todoappkolay
+>>>>>>> c22fbef060a51c66ac2b47239ad4743a30019154
 
 A new Flutter project.
 

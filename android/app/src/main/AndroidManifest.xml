@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="todolist"
+=======
+        android:label="todoappkolay"
+>>>>>>> c22fbef060a51c66ac2b47239ad4743a30019154
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
